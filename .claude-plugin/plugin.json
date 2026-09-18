@@ -1,0 +1,15 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "humanizer-ko",
+  "description": "AI가 쓴 티가 나는 한국어 글을, 내용은 그대로 두고 사람이 쓴 글처럼 고쳐 쓴다.",
+  "version": "1.0.0",
+  "author": {
+    "name": "campustrue-source",
+    "url": "https://github.com/campustrue-source"
+  },
+  "homepage": "https://github.com/campustrue-source/humanizer-ko",
+  "repository": "https://github.com/campustrue-source/humanizer-ko",
+  "license": "MIT",
+  "keywords": ["writing", "editing", "humanize", "korean", "한국어", "글쓰기", "prose", "style"],
+  "skills": ["./"]
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Humanizer-ko"
+  short_description: "AI가 쓴 한국어 글을 사람이 쓴 글처럼 고친다"
+  default_prompt: "$humanizer-ko로 이 글을 내 말투로 고쳐 줘. 사실은 바꾸지 말고."

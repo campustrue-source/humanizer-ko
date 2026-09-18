@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace-manifest.json",
+  "name": "humanizer-ko",
+  "owner": {
+    "name": "campustrue-source",
+    "url": "https://github.com/campustrue-source"
+  },
+  "description": "Humanizer-ko를 Claude 플러그인으로 설치한다.",
+  "plugins": [
+    {
+      "name": "humanizer-ko",
+      "source": "./",
+      "description": "AI가 쓴 티가 나는 한국어 글을, 내용은 그대로 두고 사람이 쓴 글처럼 고쳐 쓴다.",
+      "license": "MIT",
+      "keywords": ["writing", "editing", "humanize", "korean", "한국어", "글쓰기", "prose", "style"]
+    }
+  ]
+}
